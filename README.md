@@ -61,20 +61,20 @@
 
 ## 📚 ÍNDICE
 
-[🗺️ Roadmap](#roadmap) <br>
-[📖 Documentação e apostilas](#documentação-e-apostilas) <br>
-[🔤 Sites e cursos para aprender Lógica de Programação](#sites-e-cursos-para-aprender-lógica-de-programação) <br>
-[📚 Livros](#livros) <br>
-[🎥 Canais no Youtube](#canais-no-youtube) <br>
-[🎙️ Podcasts](#podcasts) <br>
-[📰 Sites, blogs e newsletters](#sites-blogs-e-newsletters) <br>
-[🛠️ Ferramentas](#ferramentas) <br>
-[🧪 Projetos práticos e desafios](#projetos-práticos-e-desafios) <br>
-[🧩 Fluxogramas e pseudocódigo](#fluxogramas-e-pseudocódigo) <br>
-[🤖 IA na prática](#ia-na-prática) <br>
-[🎓 Certificações](#certificações) <br>
-[💼 Carreira e vagas](#carreira-e-vagas) <br>
-[👥 Comunidades](#comunidades) <br>
+[🗺️ Roadmap](#️-roadmap) <br>
+[📖 Documentação e apostilas](#-documentação-e-apostilas) <br>
+[🔤 Sites e cursos para aprender Lógica de Programação](#-sites-e-cursos-para-aprender-lógica-de-programação) <br>
+[📚 Livros](#-livros) <br>
+[🎥 Canais no Youtube](#-canais-no-youtube) <br>
+[🎙️ Podcasts](#️-podcasts) <br>
+[📰 Sites, blogs e newsletters](#-sites-blogs-e-newsletters) <br>
+[🛠️ Ferramentas](#️-ferramentas) <br>
+[🧪 Projetos práticos e desafios](#-projetos-práticos-e-desafios) <br>
+[🧩 Fluxogramas e pseudocódigo](#-fluxogramas-e-pseudocódigo) <br>
+[🤖 IA na prática](#-ia-na-prática) <br>
+[🎓 Certificações](#-certificações) <br>
+[💼 Carreira e vagas](#-carreira-e-vagas) <br>
+[👥 Comunidades](#-comunidades) <br>
 
 ## 🗺️ Roadmap
 
